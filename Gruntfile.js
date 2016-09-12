@@ -76,7 +76,7 @@ module.exports = (grunt) => {
                 'files': [
                     'app/scss/**/*.scss'
                 ],
-                'tasks': ['css']
+                'tasks': ['compass']
             },
             'typescript': {
                 'options': {
