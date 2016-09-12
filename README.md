@@ -1,1 +1,1 @@
-# electron-angular2-boilerplate
+# Electron Angular 2 Boilerplate

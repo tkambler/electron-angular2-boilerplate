@@ -1,0 +1,22 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "baseUrl": "app/src",
+        "outDir": "app/build",
+        "rootDir": "app/src",
+        "module": "commonjs",
+        "allowJs": true,
+        "target": "es6",
+        "module": "commonjs",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "removeComments": false,
+        "noImplicitAny": false,
+        "moduleResolution": "node",
+        "allowUnreachableCode": true
+    },
+    "files": [
+        "app/typings/node.d.ts",
+        "app/src/index.ts"
+    ]
+}
